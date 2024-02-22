@@ -1,0 +1,2 @@
+# Development-of-Unsupervised-Learning-Models-for-Monkeypox-Detection.
+Led a research initiative focused on leveraging unsupervised learning techniques to develop robust models for the detection of Monkeypox, a viral disease with significant public health implications. Employed cutting-edge machine learning algorithms to analyze large datasets comprising clinical, epidemiological, and genomic information.
